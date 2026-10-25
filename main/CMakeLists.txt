@@ -94,7 +94,7 @@ endif()
 
 ## register_component()
 idf_component_register(
-                       SRCS main.c echoserver.c time_helper.c wifi_connect.c
+                       SRCS main.c uartserver.c time_helper.c wifi_connect.c
                        INCLUDE_DIRS "." "./include")
 #
 

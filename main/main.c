@@ -19,7 +19,7 @@
  */
 #include "sdkconfig.h"
 #include "main.h"
-#include "echoserver.h"
+#include "uartserver.h"
 
 /* ESP specific */
 #include <nvs_flash.h>
