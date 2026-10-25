@@ -1,0 +1,7 @@
+dependencies:
+  idf:
+    version: '>=4.1.0'
+  wolfssl/wolfssh:
+    version: ^1.4.20
+  wolfssl/wolfssl:
+    version: ^5.7.6
